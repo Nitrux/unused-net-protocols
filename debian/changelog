@@ -1,3 +1,9 @@
+unused-net-protocols (0.0.2-1) nitrux; urgency=medium
+
+  * Build for all architectures.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Thu, 12 Feb 2026 10:59:00 -0500
+
 unused-net-protocols (0.0.2) nitrux; urgency=medium
 
   * Use a central file to block these network protocols.
